@@ -47,6 +47,7 @@ Project resources
 
 - `Source code <https://github.com/axelv/mopidy-avcntrl>`_
 - `Issue tracker <https://github.com/axelv/mopidy-avcntrl/issues>`_
+- `Development branch tarball <https://github.com/axelv/mopidy-avcntrl/tarball/master#egg=Mopidy-AVCNTRL-dev>`_
 
 
 Credits
