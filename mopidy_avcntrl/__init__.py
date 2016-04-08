@@ -34,5 +34,5 @@ class Extension(ext.Extension):
         # in a single extension.
 
         # TODO: Edit or remove entirely
-        from .frontend import FoobarFrontend
-        registry.add('frontend', FoobarFrontend)
+        from .frontend import AVCNTRLFrontend
+        registry.add('frontend', AVCNTRLFrontend)
